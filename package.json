@@ -1,0 +1,19 @@
+{
+  "name": "semanticuisamplewebsite",
+  "version": "1.0.0",
+  "description": "A self challenge to create a sample website using semantic UI framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayMathew/semanticUISampleWebsite.git"
+  },
+  "author": "Ray Mathew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayMathew/semanticUISampleWebsite/issues"
+  },
+  "homepage": "https://github.com/RayMathew/semanticUISampleWebsite#readme"
+}
