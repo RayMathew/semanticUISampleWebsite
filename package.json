@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RayMathew/semanticUISampleWebsite/issues"
   },
-  "homepage": "https://github.com/RayMathew/semanticUISampleWebsite#readme"
+  "homepage": "https://github.com/RayMathew/semanticUISampleWebsite#readme",
+  "dependencies": {
+    "semantic-ui": "^2.3.3"
+  }
 }
